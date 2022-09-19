@@ -1,16 +1,13 @@
 ![I'm a mathematician and a developer](https://github.com/anjateichler/anjateichler/blob/main/Banner.png)
-### Hi there 👋
-### I'm a mathematician and a developer
+## Hello World, I am a mathematician and a developer
 
-I'm Anja from Germany. I graduated mathematics with focus on technology and programming from 'Berliner Hochschule für Technik'. 
-- 🔭 I’m currently working on a PDF converter. 
-- 🌱 I’m currently learning how to design a README for my profile 
+Hey, my name is Anja and I am from Germany. I graduated mathematics with focus on technology and programming.
 - ⚡ Fun fact: I love to read, solve puzzles and take care of my house plants. :potted_plant:
 - :bust_in_silhouette: Pronouns: she/her 
 
 **Programming Languages**
 
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img title="cplusplus" alt="cplusplus" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 |--|--|--|
 
 **Tools**
@@ -25,15 +22,21 @@ I'm Anja from Germany. I graduated mathematics with focus on technology and prog
 **Databases**
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-<br>
-<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjateichler&show_icons=true) 
+<img src="https://github-readme-stats.vercel.app/api?username=anjateichler&show_icons=true&theme=radical&include_all_commits=true">
+
 
 ![Profile views](https://gpvc.arturio.dev/anjateichler)  
 
-<br>
+<!-- Social Section -->
+<p align="center">
+  <i>let's get in touch!</i>
 
-### Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/anjateichler/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/anjateichler/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://github.com/anjateichler/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+</p>
