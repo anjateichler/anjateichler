@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anja
 #### I'm a mathematician and a developer
-![I'm a mathematician and a developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a mathematician and a developer](Banner.png)
 
 I'm Anja from Germany. I graduated mathematics with focus on technology and programming from 'Berliner Hochschule für Technik'. 
 
